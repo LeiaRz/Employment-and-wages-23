@@ -1,0 +1,36 @@
+﻿id,company,position,level,sphere,date_post,in_hours,appliers
+1,Teva,Data Science Expert,Mid-Senior,Manufacturing,24.09.23,168,195
+2,Unity,Data Scientist,Senior,Software Development,10.09.23,504,167
+3,Cross River,Data Scientist,Entry,Financial Services,24.09.23,168,174
+4,SupPlant,Data Scientist,Mid-Senior,Farming,24.09.23,168,270
+5,Citi,Data Scientist,Senior,Financial Services,25.09.23,144,68
+6,Gotfriends,Data Scientist,Mid-Senior,HR Services,24.09.23,168,123
+7,ZipRecruiter,Data Scientist,Senior,Software Development,17.09.23,336,269
+8,Microsoft,Data Scientist,Mid-Senior,Software Development,01.10.23,2,12
+9,Arpeely,Data Scientist,Senior,Technology,10.09.23,504,86
+10,Salesforce,Data Scientist,Mid-Senior,Software Development,25.09.23,144,358
+11,Monday.com,Data Scientist,Senior,Software Development,24.09.23,168,123
+12,Playtika,Data Scientist,Mid-Senior,Gaming,24.09.23,168,98
+13,Meta,AI Research Scientist,Senior,Software Development,24.09.23,168,25
+14,Confidential,AI Research Scientist,Senior,Technology,10.09.23,504,73
+15,accessiBe,Data Scientist,Mid-Senior,Software Development,01.09.23,720,51
+16,Apple,Machine Learning Engineer,Senior,Manufacturing,24.09.23,168,360
+17,ZipRecruiter,Machine Learning Researcher,Senior,Software Development,10.09.23,504,559
+18,NVIDIA,Networking Data Scientist,Senior,Manufacturing,24.09.23,168,24
+19,Cipia,Data Scientist,Mid-Senior,Software Development,01.09.23,720,204
+20,easy,Data Scientist,Senior,Technology,17.09.23,336,62
+21,BioCatch,Data Scientist,Mid-Senior,Computer and Network Security,01.07.23,2184,255
+22,Cognyte,Data Scientist,Mid-Senior,Software Development,01.09.23,720,37
+23,Tipalti,Data Scientist,Mid-Senior,Software Development,01.08.23,1464,82
+24,Team8,Data Scientist and Algorithm Researcher,Mid-Senior,VC,17.09.23,336,78
+25,KPMG Israel,Data Scientisce Team Lead,Senior,Financial Services,03.09.23,672,3
+26,Intel Corporation,Data Science Engineer,Mid-Senior,Manufacturing,17.09.23,336,49
+27,Intel Corporation,Yield Analysis Engineer,Mid-Senior,Manufacturing,17.09.23,336,14
+28,Syte,Data Scientisce Team Lead,Mid-Senior,Software Development,01.07.23,2184,51
+29,Fetcherr,ML_DL Engineer,Mid-Senior,Software Development,25.09.23,168,35
+30,SeeTrue AI,Algorithm Engineer,Mid-Senior,Software Development,25.09.23,168,123
+31,OpenWeb,Machine Learning Engineer,Entry,Software Development,02.09.23,720,116
+32,Intel Corporation,Principle Data Science Engineer,Senior,Manufacturing,18.09.23,336,72
+33,Expretis,Machine Learning Engineer,Senior,Staffing and Recruiting Services,25.09.23,168,43
+34,BIScience,Data Scientist,Mid-Senior,Software Development,02.09.23,720,375
+35,HP,Staff Data Scientist,Mid-Senior,Technology,18.09.23,336,75
