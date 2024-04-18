@@ -1,4 +1,4 @@
-Employment and wages data analysis. Israel 2022-2023
+Employment and wages data analysis. Israel 2023
 
 Part 1
 
