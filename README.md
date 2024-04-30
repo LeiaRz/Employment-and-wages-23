@@ -1,7 +1,5 @@
 Employment and wages data analysis. Israel 2023
 
-Part 1
-
 Are you constantly applying and want to know what your chances of finding a new job are? I've got you covered. Well, not me exactly, but the numbers—which never lie. I just wrote some scripts, made some calculations, and wrote these words.
 
 This post is my bleak message of fatalism to all my data analyst friends suffering from unearned optimism about securing a new job within a month. Later, I’ll post the second part of the analysis, which offers a perspective on the nightmare described here. At first glance, it may all seem depressing, but we’re going to make it as fun as it can be, right?
@@ -26,4 +24,22 @@ If you have hardly made it to this point of the post, here's the summary of the 
 •	There's a higher chance to find an open position for a Mid-Senior level than for a Junior. One sentence earlier, I told you to start learning ML, but honestly, it might be too late, as your chances to find a junior position are somewhere between 1/8 to 1/34 depending on the position. But you still can learn ML for personal development, isn’t that fulfilling enough? 😊
 
 •	Regarding the sphere, there are a lot of open positions in the technology sphere. The least number of open positions is in e-commerce. Here, I need to remind you that we're still talking about PM, DS, and DA only.
+
+•   The highest salaries for non-citizens are in the 'Accommodation and Food' sector with the average salary around 10,000 shekels per month. Interestingly, the salaries for citizens in the same economic sector are the lowest on average. My hypothesis is that the most popular positions among citizens are low-skilled ones such as waitstaff, kitchen assistants, etc. These positions are mostly popular among students because of the flexible schedule, but the salaries there are lower. While for non-citizens, the most popular positions might be specialized culinary roles that do not require a high level of language skills, since you do not face the customers, and also these positions have higher salaries as they require more specialized skills.
+
+•   The sphere with the highest salaries for the citizens is "Monetary Institutions". The initial data from Bituach Leumi differentiates between "Monetary Institutions" and "Financial Institutions." Nevertheless, citizens in the financial sphere have the highest salaries, between 20K and 30K shekels on average. The industries with the highest salaries for the citizens are "Mining and Quarrying" and "Information and Communication" with the average salary above 25,000 shekels, while the lowest salaries are in "Accommodation and Food" with the salaries below 7,000 shekels on average. I also wanted to remind you that this data doesn't include High-Tech.
+
+•	This is the list of high-tech spheres and the average salaries from highest to lowest:
+
+        Scientific R&D 31,080.3 ₪
+        IT Consulting Services 30,113.2 ₪
+        Electronics Manufacturing 26,592.4 ₪
+        Information Services 25,463.8 ₪
+        Pharmaceutical Manufacturing 21,993.4 ₪
+        Vehicle Manufacturing 21,964.4 ₪
+        Telecommunication 17,800.8 ₪
+To give a sense of scale: the average salary across all spheres excluding High-tech is 10,578.9 shekels.
+
+•   There are around 600,000 people (15% of all the working people) in the education sphere, where the average salary is 9,000 shekels a month. Then there are around 550,000 people (14%) working in the health industry with the average salary of 8,900 shekels. And regarding High-Tech, the highest number of people—which is slightly more than 300,000—work in 'computer programming consultancy and related services' with the average salary around 30,000 shekels monthly.
+
 
