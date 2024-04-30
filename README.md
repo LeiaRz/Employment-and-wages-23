@@ -1,8 +1,6 @@
 Employment and wages data analysis. Israel 2023
 
-Are you constantly applying and want to know what your chances of finding a new job are? I've got you covered. Well, not me exactly, but the numbers—which never lie. I just wrote some scripts, made some calculations, and wrote these words.
-
-This post is my bleak message of fatalism to all my data analyst friends suffering from unearned optimism about securing a new job within a month. Later, I’ll post the second part of the analysis, which offers a perspective on the nightmare described here. At first glance, it may all seem depressing, but we’re going to make it as fun as it can be, right?
+This analysis is my bleak message of fatalism to all my data analyst friends suffering from unearned optimism about securing a new job within a month. Also this report offers a perspective on all spheres of economy in Israel, including average wages across all the spheres, number of open positions, number of people employed and so on.
 
 So, here we go:
 
@@ -10,10 +8,6 @@ So, here we go:
 •	The analysis focuses exclusively on Israel.
 •	The data covers the period before the war that started on October 7, 2023, ensuring it was not affected by any extreme events.
 •	The 'hours' represent the number of hours between the publication of the job on LinkedIn and the time I scraped the data.
-
-If you are interested in going through the data or seeing the script, here's the link to my Github for your convenience.
-
-If you have hardly made it to this point of the post, here's the summary of the analysis:
 
 •	I compared how many people apply to Data Analyst, Data Scientist, and Product Manager positions per hour. I'm personally interested in DA and DS positions, but I decided to add Product Managers because I know far more Product Managers than I can count. Seriously, why are there so many Product Managers?
 
