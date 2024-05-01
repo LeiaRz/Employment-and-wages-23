@@ -1,39 +1,42 @@
-Employment and wages data analysis. Israel 2023
+# Employment and Wages Data Analysis: Israel 2023 📊
 
-This analysis is my bleak message of fatalism to all my data analyst friends suffering from unearned optimism about securing a new job within a month. Also this report offers a perspective on all spheres of economy in Israel, including average wages across all the spheres, number of open positions, number of people employed and so on.
+This analysis is my bleak message of fatalism to all my data analyst friends suffering from unearned optimism about securing a new job within a month. Additionally, this report offers a perspective on all spheres of the economy in Israel, including average wages, the number of open positions, and employment statistics.
 
-So, here we go:
+## Introduction
 
-•	The data was gathered from several job-search platforms and official statistical sources.
-•	The analysis focuses exclusively on Israel.
-•	The data covers the period before the war that started on October 7, 2023, ensuring it was not affected by any extreme events.
-•	The 'hours' represent the number of hours between the publication of the job on LinkedIn and the time I scraped the data.
+- **Data Source:** The data was gathered from several job-search platforms and official statistical sources.
+- **Focus:** The analysis focuses exclusively on Israel.
+- **Time Frame:** The data covers the period before the war that started on October 7, 2023, ensuring it was not affected by any extreme events.
+- **Hours:** The 'hours' represent the number of hours between the publication of the job on LinkedIn and the time I scraped the data.
 
-•	I compared how many people apply to Data Analyst, Data Scientist, and Product Manager positions per hour. I'm personally interested in DA and DS positions, but I decided to add Product Managers because I know far more Product Managers than I can count. Seriously, why are there so many Product Managers?
+## Analysis Highlights
 
-•	Numbers show that the competition is wild for data analysts with an average of 10 people applying for the same position per hour. However, the mean is significantly higher than the median in all three categories, especially for Data Analysts where the mean is 10 and the median is 0.5. This suggests a right-skewed distribution, so there are probably several very popular companies with very high numbers of applicants that are pulling the mean up.
+### Job Applications per Hour
+- **Data Analysts, Data Scientists, and Product Managers:** I compared how many people apply to these positions per hour. Interestingly, there are far more Product Managers than I can count—why are there so many?
+- **Competition:** The competition is wild for data analysts with an average of 10 people applying for the same position per hour. However, the mean is significantly higher than the median in all three categories, especially for Data Analysts, suggesting a right-skewed distribution.
 
-•	But if we’re talking about averages, here’s something for you to understand the scale of this nightmare: For Data Scientist positions, there's less than one applicant per hour, and for Product Managers, it is 2 people per hour, while for Data Analysts, it is 10. Time to learn ML, guys, if you're not there yet.
+### Career Opportunities
+- **Mid-Senior Level vs. Junior:** There's a higher chance to find an open position for a Mid-Senior level than for a Junior. If you're considering a career change, it might be too late to start at a junior level, but learning Machine Learning (ML) for personal development could still be fulfilling. 😊
 
-•	There's a higher chance to find an open position for a Mid-Senior level than for a Junior. One sentence earlier, I told you to start learning ML, but honestly, it might be too late, as your chances to find a junior position are somewhere between 1/8 to 1/34 depending on the position. But you still can learn ML for personal development, isn’t that fulfilling enough? 😊
+### Sector Insights
+- **Technology Sphere:** There are many open positions in technology, with the least number in e-commerce. This section does not cover High-Tech, but it's crucial to note for those looking at PM, DS, and DA roles.
 
-•	Regarding the sphere, there are a lot of open positions in the technology sphere. The least number of open positions is in e-commerce. Here, I need to remind you that we're still talking about PM, DS, and DA only.
+### High-Tech Salaries
+- **Highest to Lowest Salaries:**
+  - Scientific R&D: ₪31,080.3
+  - IT Consulting Services: ₪30,113.2
+  - Electronics Manufacturing: ₪26,592.4
+  - Information Services: ₪25,463.8
+  - Pharmaceutical Manufacturing: ₪21,993.4
+  - Vehicle Manufacturing: ₪21,964.4
+  - Telecommunication: ₪17,800.8
+  - **Average Salary (Excluding High-Tech):** ₪10,578.9
 
-•   The highest salaries for non-citizens are in the 'Accommodation and Food' sector with the average salary around 10,000 shekels per month. Interestingly, the salaries for citizens in the same economic sector are the lowest on average. My hypothesis is that the most popular positions among citizens are low-skilled ones such as waitstaff, kitchen assistants, etc. These positions are mostly popular among students because of the flexible schedule, but the salaries there are lower. While for non-citizens, the most popular positions might be specialized culinary roles that do not require a high level of language skills, since you do not face the customers, and also these positions have higher salaries as they require more specialized skills.
+### Employment Statistics
+- **Education:** About 600,000 people (15% of all workers) with an average salary of ₪9,000/month.
+- **Health Industry:** Approximately 550,000 people (14%) with an average salary of ₪8,900/month.
+- **High-Tech Sector:** The highest number of people, slightly more than 300,000, work in 'computer programming consultancy and related services' with an average salary of about ₪30,000/month.
 
-•   The sphere with the highest salaries for the citizens is "Monetary Institutions". The initial data from Bituach Leumi differentiates between "Monetary Institutions" and "Financial Institutions." Nevertheless, citizens in the financial sphere have the highest salaries, between 20K and 30K shekels on average. The industries with the highest salaries for the citizens are "Mining and Quarrying" and "Information and Communication" with the average salary above 25,000 shekels, while the lowest salaries are in "Accommodation and Food" with the salaries below 7,000 shekels on average. I also wanted to remind you that this data doesn't include High-Tech.
+## Conclusion
 
-•	This is the list of high-tech spheres and the average salaries from highest to lowest:
-
-        Scientific R&D 31,080.3 ₪
-        IT Consulting Services 30,113.2 ₪
-        Electronics Manufacturing 26,592.4 ₪
-        Information Services 25,463.8 ₪
-        Pharmaceutical Manufacturing 21,993.4 ₪
-        Vehicle Manufacturing 21,964.4 ₪
-        Telecommunication 17,800.8 ₪
-To give a sense of scale: the average salary across all spheres excluding High-tech is 10,578.9 shekels.
-
-•   There are around 600,000 people (15% of all the working people) in the education sphere, where the average salary is 9,000 shekels a month. Then there are around 550,000 people (14%) working in the health industry with the average salary of 8,900 shekels. And regarding High-Tech, the highest number of people—which is slightly more than 300,000—work in 'computer programming consultancy and related services' with the average salary around 30,000 shekels monthly.
-
-
+This data-driven insight into the employment and wage landscape in Israel provides a comprehensive overview for job seekers and industry analysts alike. Whether you're shocked or pleased by these figures, they offer valuable guidance for career planning and market analysis.
